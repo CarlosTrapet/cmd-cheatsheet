@@ -1,5 +1,6 @@
 
 # Cheat sheet compilation of some useful terminal commands
+Please feel free to add more commands that you think are essential, as well as edit or correct any that might need explaining or fixing
 
 ## touch newfile
 creates new file
@@ -19,8 +20,10 @@ recursively removes the directory and all contents
 
 ## cp somefile newfile
 copies file, takes two parameters 
+
 ## mv somefile ../somefile 
 moves file to the directory above. takes two parameters; old location and new location
+
 ## mv somefile newfile 
 can change name of the file like this
 
