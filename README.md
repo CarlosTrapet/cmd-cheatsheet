@@ -27,20 +27,28 @@ can change name of the file like this
 
 ## cat somefile
 views file and prints contents to console
+
 ## cat > somefile
 creates file and allows to write its content from terminal
+
 ## cat somefile otherfile > combined
 combines both files into a new one
+
 ## less somefile
 will allow you to see contents in cmd and scroll
+
 ## head -3 somefile
 displays X amount of lines from top of document in CMD
+
 ## tail -3 somefile
 displays X amount of lines from bottom document
+
 ## tail -f log.txt 
 displays what's happening with doc
+
 ## tail -f /private/var/log/system.log
 peek at what computer is doing
+
 ## man ls 
 manual of what the 'ls' command does
 
